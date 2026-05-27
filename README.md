@@ -78,8 +78,8 @@ The project generates:
 
 ## Project Files
 
-- `Rocket_Nozzle.py` → Main Python code
-- `Rocket_Nozzle_AreaRatioVsMachNo_Fig.png` → Generated graph
+- `area_ratio_vs_mach.py` → Main Python code
+- `area_ratio_vs_mach_graph.png` → Generated graph
 - `README.md` → Project documentation
 
 ---
